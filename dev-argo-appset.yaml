@@ -19,7 +19,7 @@ spec:
             targetRevision: develop
           - appName: database
             path: database
-            targetRevision: main
+            targetRevision: develop
           
   template:
     metadata:

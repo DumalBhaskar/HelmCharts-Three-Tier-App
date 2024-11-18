@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: 533267075370.dkr.ecr.ap-south-1.amazonaws.com/production/api-prod
+  repository: 533267075370.dkr.ecr.ap-south-1.amazonaws.com/development/api-dev
   tag: "10"
   pullPolicy: IfNotPresent
 
