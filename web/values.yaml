@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: 533267075370.dkr.ecr.ap-south-1.amazonaws.com/development/web-dev
+  repository: 533267075370.dkr.ecr.ap-south-1.amazonaws.com/production/web-prod
   tag: "2"
   pullPolicy: IfNotPresent
 

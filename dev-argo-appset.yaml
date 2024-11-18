@@ -11,12 +11,12 @@ spec:
             imageRepo: 533267075370.dkr.ecr.ap-south-1.amazonaws.com/development/web-dev
             imageTag: "2"
             path: web
-            targetRevision: main
+            targetRevision: develop
           - appName: api-app
             imageRepo: 533267075370.dkr.ecr.ap-south-1.amazonaws.com/development/api-dev
             imageTag: "10"
             path: api
-            targetRevision: main
+            targetRevision: develop
           - appName: database
             path: database
             targetRevision: main
