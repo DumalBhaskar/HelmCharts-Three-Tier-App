@@ -17,9 +17,6 @@ spec:
             imageTag: "10"
             path: api
             targetRevision: develop
-          - appName: database
-            path: database
-            targetRevision: develop
           
   template:
     metadata:
