@@ -17,9 +17,6 @@ spec:
             imageTag: "2"
             path: api
             targetRevision: main
-          - appName: prod-database
-            path: database
-            targetRevision: main
           
   template:
     metadata:
